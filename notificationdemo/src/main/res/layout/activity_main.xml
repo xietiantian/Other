@@ -76,7 +76,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="showProgressNotification"
-            android:text="@string/show_normal_notification"
+            android:text="@string/show_progress_notification"
             android:textAllCaps="false" />
     </LinearLayout>
 </ScrollView>

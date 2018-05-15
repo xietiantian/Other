@@ -10,4 +10,5 @@
     <string name="show_custom_style_notification">ShowCustomNotification</string>
     <string name="show_reply_notification">ShowReplyNotification</string>
     <string name="show_head_up_notification">ShowHeadUpNotification</string>
+    <string name="show_progress_notification">showProgressNotification</string>
 </resources>
